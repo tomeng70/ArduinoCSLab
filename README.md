@@ -1,2 +1,3 @@
 # ArduinoCSLab
-CSLabArduino
+
+This repository contains sample Arduino-related code.
